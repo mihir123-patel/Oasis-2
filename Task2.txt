@@ -1,0 +1,9 @@
+📉 Analyzing the Unemployment Rate: An Oasis Data Science Project 📉
+
+In light of the sharp rise in unemployment during the COVID-19 pandemic, I’m diving into an impactful data science project with Oasis: analyzing the unemployment rate. This project focuses on understanding trends and fluctuations in unemployment by examining the unemployment rate, which measures the number of unemployed individuals as a percentage of the total labor force.
+
+Through this analysis, I aim to uncover insights that highlight the economic effects of the pandemic and potentially identify patterns or factors influencing unemployment. Projects like these not only enhance my data science skills but also contribute to our understanding of critical societal challenges.
+
+Looking forward to sharing my findings and insights from this project!
+
+#OasisProject #DataScience #UnemploymentAnalysis #COVID19 #LaborEconomics #Python #DataAnalysis #MachineLearning
